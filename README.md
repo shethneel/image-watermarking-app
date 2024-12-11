@@ -1,4 +1,4 @@
-# Watermarking Tool
+# MarkIt : Image watermarking tool
 
 This Python project provides functionality to add **image watermarks** or **text watermarks** to an image. 
 It utilizes popular libraries like `requests`, `cv2`, `Pillow`, and `NumPy` to process and manipulate images. 
