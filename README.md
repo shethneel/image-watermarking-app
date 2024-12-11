@@ -46,7 +46,6 @@ Install these dependencies using pip:
 1. Clone the repository and navigate to the project folder.
 2. Run the script:
 
-bash
 `python watermark_tool.py`
 
 3. Follow the on-screen instructions to choose between image or text watermarking.
