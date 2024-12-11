@@ -28,7 +28,6 @@ To run this project, you need the following Python packages installed:
 
 Install these dependencies using pip:
 
-bash
 `pip install requests opencv-python numpy pillow`
 
 ## How It Works
